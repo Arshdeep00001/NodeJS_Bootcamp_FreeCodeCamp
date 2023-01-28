@@ -22,7 +22,9 @@ Running Repl in Terminal:
 node //here we have node+space, then enter, we get > sign which means we are in the repl
 
 const name = "john"
+
 name
+
 'john'//Now, this is printed by repl and not us
 
 We can do the same in VanillaJS in browser console. To close the repl we use Ctrl+C
