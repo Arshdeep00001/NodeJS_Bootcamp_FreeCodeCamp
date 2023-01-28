@@ -18,11 +18,13 @@ Refer Youtube Channel 'Coding Addict' and Playlist 'JS Nuggets' if you need to b
 # How does Node evaluate our code ?
 There are 2 ways, a REPL(read evaluation print loop) which is just for playing around with code(executing code one line at a time) and CLI(command line interface) executable which means running our app code in Node which is used for serious applications.
 
-Running Repl in Terminal: node //here we have node+space, then enter, we get > sign which means we are in the repl
-                          const name = "john"
-                          name
-                          'john'//Now, this is printed by repl and not us
-We can do the same in VanillaJS in browser console.
-To close the repl we use Ctrl+C
+Running Repl in Terminal: 
+node //here we have node+space, then enter, we get > sign which means we are in the repl
+
+const name = "john"
+name
+'john'//Now, this is printed by repl and not us
+
+We can do the same in VanillaJS in browser console. To close the repl we use Ctrl+C
 
 We will get to know How Node evaluates our serious application code using CLI in the next Files.........
