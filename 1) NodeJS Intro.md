@@ -30,3 +30,5 @@ name
 We can do the same in VanillaJS in browser console. To close the repl we use Ctrl+C
 
 We will get to know How Node evaluates our serious application code using CLI in the next Files.........
+
+(If at any point in the course you need to compare any of your code with the course creater's code, you can visit johnsmilga.com -> Projects)
